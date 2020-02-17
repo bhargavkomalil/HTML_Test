@@ -1,0 +1,132 @@
+.cont-width {
+  background-color: #eee;
+  box-shadow: 2px 5px 10px #888888;
+}
+.label-adjustment {
+  margin: 10px auto;
+}
+.arrow-On {
+  text-align: center;
+  color: #a1a6a5;
+  font-size: 48px;
+}
+
+.time-cross {
+  font-size: 48px;
+  color: #a1a6a5;
+}
+.img-opacity {
+  opacity: 0.4;
+}
+.Rec-Portfolio {
+  text-align: center;
+  color: #585c5b;
+}
+
+.arrange-left {
+  float: left;
+}
+
+.col-adj {
+  text-align: center;
+}
+
+.INR {
+  margin: 10px auto;
+  font-size: 40px;
+  color: #a5a5a5;
+}
+.dark {
+  color: #a5a5a5;
+}
+.main-left {
+  float: left;
+}
+.box {
+  border: 1px solid #a5a5a5;
+  height: 65px;
+  margin-top: 5px;
+  border-left-width: thick;
+  border-left-color: #309176;
+}
+.line-align {
+  /* font-size: 11px; */
+  float: left;
+}
+.box-small {
+  background-color: #309176;
+  height: 65px;
+  margin-top: 5px;
+  border-left-color: #309176;
+}
+.box-1 {
+  border: 1px solid #a5a5a5;
+  height: 65px;
+  margin-top: 5px;
+}
+.box-small-1 {
+  background-color: #37ad8c;
+  height: 65px;
+  margin-top: 5px;
+  border-left-color: #37ad8c;
+}
+.box-2 {
+  /*  */
+  border: 1px solid #a5a5a5;
+  height: 65px;
+  margin-top: 5px;
+}
+.box-small-2 {
+  background-color: #3f4b73;
+  height: 65px;
+  margin-top: 5px;
+  border-left-color: #3f4b73;
+}
+.box-value {
+  text-align: center;
+  padding: 10px;
+  color: white;
+}
+.img-chart {
+  display: inline-block;
+  height: 250px;
+  width: 250px;
+  margin:-12 auto;
+}
+.box-left {
+  float: left;
+}
+.dot {
+  height: 10px;
+  width: 10px;
+  background-color: #309176;
+  border-radius: 50%;
+  margin: 6px 5px auto;
+}
+.dot-1 {
+  height: 10px;
+  width: 10px;
+  background-color: #37ad8c;
+  border-radius: 50%;
+  margin: 6px 5px auto;
+}
+.dot-2 {
+  height: 10px;
+  width: 10px;
+  background-color: #3f4b73;
+  border-radius: 50%;
+  margin: 6px 5px auto;
+}
+.line {
+  float: left;
+  /* margin: 0px px auto; */
+}
+.button-center{
+    text-align: center;
+}
+
+.button-back-color{
+    
+    background-color: #04c2af;
+    color: white;
+}
